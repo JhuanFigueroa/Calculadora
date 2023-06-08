@@ -26,7 +26,7 @@ namespace Calculadora
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            SetDisplay("0");
         }
 
         private void button1_Click(object sender, EventArgs e)
